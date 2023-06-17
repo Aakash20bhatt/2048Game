@@ -2,7 +2,7 @@ from tkinter import Frame, Label, CENTER
 
 import LogicsFinal
 import constants as c
-
+ 
 
 class Game2048(Frame):
     def __init__(self):
